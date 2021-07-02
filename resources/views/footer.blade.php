@@ -1,4 +1,4 @@
-<div class="card">
+<div class="card col-sm-offset-4">
   <div class="card-header">
     Quote
   </div>
